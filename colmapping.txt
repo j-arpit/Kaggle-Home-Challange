@@ -1,0 +1,65 @@
+Candidates for ONEHOTENCODING
+SaleCondition
+MSZoning
+LandContour
+LotConfig
+Condition1
+Condition2
+BldgType
+RoofStyle
+RoofMatl
+Exterior1st
+Exterior2nd
+MasVnrType
+Foundation(Check for this once again)
+Heating
+Electrical
+GarageType
+SaleType
+SaleCondition
+HouseStyle
+
+Canditates for Mapping (label encoding)
+GarageFinish
+PoolQC
+BsmtFinType2, BsmtFinType1
+Fence
+BsmtCond
+Alley
+GarageCond
+BsmtQual
+GarageQual
+FireplaceQu
+BsmtExposure
+HeatingQC
+RoofStyle
+Foundation
+SaleCondition
+BldgType
+LotConfig
+ExterQual
+LandSlope
+PavedDrive
+LandContour
+Utilities
+Functional
+CentralAir
+Exterior1st
+LotShape
+RoofMatl
+Exterior2nd
+KitchenQual
+ExterCond
+Street
+Heating
+
+Canditates for graph
+Neighborhood
+(also a condidate for Mapping)
+
+I dont know what to do with these cols:-
+MiscFeature
+MiscVal
+MoSold
+MSSubClass
+
